@@ -1,0 +1,3 @@
+[submodule "node-qiniu"]
+	path = node-qiniu
+	url = git@github.com:zqWu/node-qiniu.git
